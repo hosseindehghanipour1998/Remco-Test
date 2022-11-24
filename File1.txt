@@ -1,6 +1,7 @@
 Hiiiiiiiiiii
 
 
+<<<<<<< HEAD
 sdtwwerwerrwe
 
 
@@ -11,3 +12,6 @@ sdfsdfs
 
 hgj
 gh
+=======
+This is the gamma line
+>>>>>>> ec9284d0442cb1233a0b178042aedb546c4c6565
