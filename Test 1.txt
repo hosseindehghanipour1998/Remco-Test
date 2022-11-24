@@ -1,1 +1,5 @@
 We have funtion f1()
+
+We have funtion f2()
+
+We have funtion f3()
